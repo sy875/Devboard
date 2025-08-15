@@ -20,7 +20,7 @@ A **production-ready REST API** built with **Express.js** and **TypeScript**, de
 ### **Clone & Install**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/sy875/Devboard.git
 cd devboard
 npm install
 npm run dev
