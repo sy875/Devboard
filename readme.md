@@ -4,7 +4,8 @@ A **production-ready REST API** built with **Express.js** and **TypeScript**, de
 
 ---
 
-# Postman Collection : https://www.postman.com/lively-firefly-527899/workspace/devboard/request/22923065-3e9a48e1-71b8-4211-b5af-213a1f998fa0?action=share&source=copy-link&creator=22923065
+# Postman Collection 
+https://www.postman.com/lively-firefly-527899/workspace/devboard/request/22923065-3e9a48e1-71b8-4211-b5af-213a1f998fa0?action=share&source=copy-link&creator=22923065
 
 ## 🎯 Features
 
