@@ -4,7 +4,9 @@ A **production-ready REST API** built with **Express.js** and **TypeScript**, de
 
 ---
 
-## 🎯 End Goal
+#Postman Collection : https://www.postman.com/lively-firefly-527899/workspace/devboard/request/22923065-3e9a48e1-71b8-4211-b5af-213a1f998fa0?action=share&source=copy-link&creator=22923065
+
+## 🎯 Features
 
 - Fully working **Express.js API**  
 - **JWT authentication** and **API key** access  
@@ -23,6 +25,7 @@ A **production-ready REST API** built with **Express.js** and **TypeScript**, de
 git clone https://github.com/sy875/Devboard.git
 cd devboard
 npm install
+npm run prepare
 npm run dev
 
 
@@ -32,15 +35,7 @@ npm run dev
 | `api_keys`      | Store API keys for authenticated access   |
 | `projects`      | Store project details                     |
 | `tasks`         | Store tasks under projects                |
-| `collaborators` | Optional: share projects with other users |
+| `collaborators` | collaborate on projects with other users |
 
-
-| Method | Route           | Description                            |
-| ------ | --------------- | -------------------------------------- |
-| POST   | `/projects`     | Create a project                       |
-| GET    | `/projects`     | List all user projects                 |
-| GET    | `/projects/:id` | Get project by ID                      |
-| PUT    | `/projects/:id` | Update project                         |
-| DELETE | `/projects/:id` | Delete project (soft delete supported) |
 
 
